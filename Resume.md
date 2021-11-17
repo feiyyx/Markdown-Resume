@@ -17,6 +17,7 @@
 
  - 男，1998 年 1月
  - 本科，西安电子科技大学，信息安全，2016.9~2020.06
+ - 工作年限：一年
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
